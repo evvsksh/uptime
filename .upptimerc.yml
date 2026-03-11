@@ -17,8 +17,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://avatars.githubusercontent.com/evvsksh
   name: Uptime
-  introTitle: "You can find the current service status below."
-  introMessage: Powered by [Upptime](https://github.com/upptime/upptime)
+  introTitle: ""
+  introMessage: ""
   navbar:
     - title: Status
       href: /
