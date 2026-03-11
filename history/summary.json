@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 483,
-    "timeDay": 483,
-    "timeWeek": 483,
-    "timeMonth": 483,
-    "timeYear": 483,
+    "time": 437,
+    "timeDay": 437,
+    "timeWeek": 437,
+    "timeMonth": 437,
+    "timeYear": 437,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 503,
-    "timeDay": 503,
-    "timeWeek": 503,
-    "timeMonth": 503,
-    "timeYear": 503,
+    "time": 466,
+    "timeDay": 466,
+    "timeWeek": 466,
+    "timeMonth": 466,
+    "timeYear": 466,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/archive.evvsk.it.ico",
     "slug": "archive",
     "status": "up",
-    "uptime": "83.21%",
-    "uptimeDay": "83.21%",
-    "uptimeWeek": "83.21%",
-    "uptimeMonth": "83.21%",
-    "uptimeYear": "83.21%",
-    "time": 377,
-    "timeDay": 377,
-    "timeWeek": 377,
-    "timeMonth": 377,
-    "timeYear": 377,
-    "dailyMinutesDown": {
-      "2026-03-11": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 347,
+    "timeDay": 347,
+    "timeWeek": 347,
+    "timeMonth": 347,
+    "timeYear": 347,
+    "dailyMinutesDown": {}
   }
 ]
