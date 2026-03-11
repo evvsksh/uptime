@@ -19,6 +19,7 @@ status-website:
   name: Uptime
   introTitle: ""
   introMessage: ""
+  themeUrl: https://status.evvsk.it/my-custom-theme.css
   navbar:
     - title: Status
       href: /
