@@ -28,6 +28,7 @@
   --graph-filter: none;
 }
 
-.header {
+/* Hide header/footer */
+.header{
   display: none;
 }
