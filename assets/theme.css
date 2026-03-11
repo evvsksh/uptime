@@ -29,6 +29,6 @@
 }
 
 /* Hide header/footer */
-.header, footer {
+.header{
   display: none;
 }

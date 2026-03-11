@@ -5,10 +5,22 @@ repo: uptime # The name of this repository
 sites:
   - name: Mirror
     url: https://mirror.evvsk.it
+    type: globalping
+    location: Paris
+    assignees:
+    - evvsksh
   - name: Homepage
     url: https://evvsk.it
+    type: globalping
+    location: Paris
+    assignees:
+    - evvsksh
   - name: Archive
     url: https://archive.evvsk.it
+    type: globalping
+    location: Paris
+    assignees:
+    - evvsksh
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
