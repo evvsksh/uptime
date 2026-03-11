@@ -19,7 +19,7 @@ status-website:
   name: Uptime
   introTitle: ""
   introMessage: ""
-  themeUrl: https://raw.githubusercontent.com/evvsksh/uptime/refs/heads/master/assets/theme.css
+  themeUrl: https://status.evvsk.it/theme.css
   navbar:
     - title: Status
       href: /
