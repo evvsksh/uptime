@@ -1,5 +1,4 @@
 :root {
-  /* Base colors */
   --body-background-color: #0f111a;      /* Dark, almost black background */
   --body-text-color: #e6e6e6;            /* Soft white for readability */
   --card-background-color: #1a1f2b;      /* Slightly lighter than background */
@@ -8,7 +7,6 @@
   --nav-current-border-bottom-color: #4fd1c5; /* Accent for active nav item */
   --card-border-color: #2e3a59;          /* Soft border for cards */
 
-  /* Status / tags */
   --down-border-left-color: #ef476f;     /* Bright red for down/decrease */
   --down-background-color: #720026;      /* Darker red bg */
   --degraded-border-left-color: #ffd166; /* Gold/yellow for warning */
@@ -19,7 +17,6 @@
   --tag-degraded-background-color: #ffd166;
   --change-background-color: #ffd166;    /* Gold for neutral attention */
 
-  /* Buttons */
   --error-button-border-color: #e63946;  /* Red accent */
   --error-button-background-color: #f94144; 
   --error-button-color: #ffffff;
@@ -27,7 +24,6 @@
   --submit-button-background-color: #00bfa6;
   --submit-button-color: #ffffff;
 
-  /* Graph / visuals */
   --graph-opacity: 1;
   --graph-filter: none;
 }
