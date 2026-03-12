@@ -2,7 +2,7 @@ owner: evvsksh
 repo: uptime
 
 workflowSchedule:
-  uptime: "*/5 * * * *"
+  uptime: "1 0 * * *" # github action is slow
   responseTime: "15 */6 * * *"
   graphs: "20 2 * * *"
   staticSite: "40 2 * * *"
