@@ -2,6 +2,9 @@
 owner: evvsksh # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
 
+workflowSchedule:
+  responseTime: "0 */6 * * *"
+
 sites:
   - name: Mirror
     url: https://mirror.evvsk.it
