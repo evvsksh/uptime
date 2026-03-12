@@ -30,6 +30,12 @@ sites:
     location: france
     assignees:
     - evvsksh
+  - name: TCC
+    url: https://tcc.evvsk.it/api/health
+    type: globalping
+    location: france
+    assignees:
+    - evvsksh
 
 status-website:
   cname: status.evvsk.it
