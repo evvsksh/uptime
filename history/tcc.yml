@@ -1,7 +1,7 @@
 url: https://tcc.evvsk.it/api/health
-status: up
-code: 200
-responseTime: 126
-lastUpdated: 2026-03-13T08:55:30.663Z
+status: down
+code: 403
+responseTime: 0
+lastUpdated: 2026-03-13T09:55:23.392Z
 startTime: 2026-03-12T13:50:27.612Z
 generator: Upptime <https://github.com/upptime/upptime>
