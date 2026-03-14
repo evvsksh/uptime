@@ -70,17 +70,14 @@ status-website:
   themeUrl: https://status.evvsk.it/theme.css
   customBodyHtml: |
     <script>
-      const observer = new MutationObserver((mutations, obs) => {
+      const interval = setInterval(() => {
         const footer = document.querySelector('footer');
         const nav = document.querySelector('nav');
 
-        if (footer) footer.remove();
-        if (nav) nav.remove();
+        let removed = false;
+        if (footer) { footer.remove(); removed = true; }
+        if (nav) { nav.remove(); removed = true; }
 
-        if (footer || nav) {
-          obs.disconnect();
-        }
-      });
-
-      observer.observe(document.documentElement, { childList: true, subtree: true });
+        if (removed) clearInterval(interval);
+      }, 50);
     </script>
