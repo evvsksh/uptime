@@ -46,7 +46,7 @@ sites:
       - "User-Agent: $UA"
   - name: MC Proxy
     check: "tcp-ping"
-    url: mc.evvsk.it
+    url: $MC_PROXY_IP
     port: 25565
     assignees:
       - evvsksh
@@ -58,9 +58,3 @@ status-website:
   introTitle: ""
   introMessage: ""
   themeUrl: https://status.evvsk.it/theme.css
-
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
