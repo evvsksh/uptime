@@ -91,6 +91,10 @@ body::-webkit-scrollbar-thumb:hover {
   display: none;
 }
 
+footer {
+  display: none;
+}
+
 .icon {
   border-radius: 50%;
 }
