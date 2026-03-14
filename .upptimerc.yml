@@ -70,8 +70,17 @@ status-website:
   themeUrl: https://status.evvsk.it/theme.css
   customBodyHtml: |
     <script>
-     ["footer", "nav"].forEach(el => document.querySelector(el)?.remove());
-      setInterval(() => {
-      ["footer", "nav"].forEach(el => document.querySelector(el)?.remove());
-    }, 1000);
+      const observer = new MutationObserver((mutations, obs) => {
+        const footer = document.querySelector('footer');
+        const nav = document.querySelector('nav');
+
+        if (footer) footer.remove();
+        if (nav) nav.remove();
+
+        if (footer || nav) {
+          obs.disconnect();
+        }
+      });
+
+      observer.observe(document.documentElement, { childList: true, subtree: true });
     </script>
