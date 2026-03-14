@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 164,
-    "timeDay": 85,
+    "timeDay": 88,
     "timeWeek": 164,
     "timeMonth": 164,
     "timeYear": 164,
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 200,
+    "time": 198,
     "timeDay": 125,
-    "timeWeek": 200,
-    "timeMonth": 200,
-    "timeYear": 200,
+    "timeWeek": 198,
+    "timeMonth": 198,
+    "timeYear": 198,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 123,
-    "timeDay": 50,
-    "timeWeek": 123,
-    "timeMonth": 123,
-    "timeYear": 123,
+    "time": 122,
+    "timeDay": 51,
+    "timeWeek": 122,
+    "timeMonth": 122,
+    "timeYear": 122,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 133,
-    "timeDay": 132,
-    "timeWeek": 133,
-    "timeMonth": 133,
-    "timeYear": 133,
+    "time": 132,
+    "timeDay": 130,
+    "timeWeek": 132,
+    "timeMonth": 132,
+    "timeYear": 132,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "MC Proxy",
+    "url": "mc.evvsk.it",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "mc-proxy",
+    "status": "down",
+    "uptime": "93.71%",
+    "uptimeDay": "93.71%",
+    "uptimeWeek": "93.71%",
+    "uptimeMonth": "93.71%",
+    "uptimeYear": "93.71%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-03-14": 0
+    }
   }
 ]
