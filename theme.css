@@ -4,9 +4,9 @@
 
   --card-background-color: #f5ede0;
   --nav-background-color: #f5ede0;
-  --nav-border-bottom-color: #c4a47a;
+  --nav-border-bottom-color: #c4a47a00;
   --nav-current-border-bottom-color: #5a3e28;
-  --card-border-color: #d4b896;
+  --card-border-color: #d4b89600;
 
   --down-border-left-color: #8a6a4a;
   --down-background-color: #ede0d0;
@@ -39,9 +39,9 @@
 
     --card-background-color: #2a1f14;
     --nav-background-color: #2a1f14;
-    --nav-border-bottom-color: #8a6a3a;
+    --nav-border-bottom-color: #8a6a3a00;
     --nav-current-border-bottom-color: #d4b896;
-    --card-border-color: #6a4a28;
+    --card-border-color: #6a4a2800;
 
     --down-border-left-color: #8a6a3a;
     --down-background-color: #2a1f14;
