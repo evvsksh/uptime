@@ -47,7 +47,7 @@ sites:
   - name: MC Proxy
     check: "tcp-ping"
     url: $MC_PROXY_IP
-    port: 25565
+    port: 48123
     assignees:
       - evvsksh
     
