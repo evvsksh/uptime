@@ -52,14 +52,6 @@ status-website:
   introTitle: ""
   introMessage: ""
   themeUrl: https://status.evvsk.it/theme.css
-  customHeadHtml: |
-    <script src="https://cdn.jsdelivr.net/npm/nomoji@16.1.1/dist/nomoji.min.js"></script>
-  customFootHtml: |
-    <script>
-      document.addEventListener("DOMContentLoaded", () => {
-        nomoji(document.body, "https://cdn.jsdelivr.net/npm/noto-emoji@latest/svg/");
-      });
-    </script>
 
   navbar:
     - title: Status
