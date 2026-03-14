@@ -44,6 +44,16 @@ sites:
       - evvsksh
     headers:
       - "User-Agent: $UA"
+  - name: Proxy
+    url: https://proxy.evvsk.it
+    type: globalping
+    location: europe
+    assignees:
+      - evvsksh
+    expectedStatusCodes:
+      - 400
+    headers:
+      - "User-Agent: $UA"
   - name: MC Proxy
     check: "tcp-ping"
     url: $MC_PROXY_IP
