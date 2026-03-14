@@ -68,6 +68,14 @@
   }
 }
 
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100vh;
+  margin: 0;
+}
+
 body::-webkit-scrollbar {
   width: 12px;
 }
@@ -102,6 +110,4 @@ footer {
 .container {
   width: 100%;
   height: auto;
-  margin-top: calc(50vh - 50%); 
-  margin-bottom: calc(50vh - 50%);
 }
