@@ -76,19 +76,19 @@
     "url": "$MC_PROXY_IP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mc-proxy",
-    "status": "down",
-    "uptime": "8.75%",
-    "uptimeDay": "8.75%",
-    "uptimeWeek": "8.75%",
-    "uptimeMonth": "8.75%",
-    "uptimeYear": "8.75%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "6.06%",
+    "uptimeDay": "6.06%",
+    "uptimeWeek": "6.06%",
+    "uptimeMonth": "6.06%",
+    "uptimeYear": "6.06%",
+    "time": 105,
+    "timeDay": 105,
+    "timeWeek": 105,
+    "timeMonth": 105,
+    "timeYear": 105,
     "dailyMinutesDown": {
-      "2026-03-14": 13
+      "2026-03-14": 20
     }
   }
 ]
