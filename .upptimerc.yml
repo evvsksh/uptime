@@ -44,7 +44,13 @@ sites:
       - evvsksh
     headers:
       - "User-Agent: $UA"
-
+  - name: MC Proxy
+    check: "tcp-ping"
+    url: mc.evvsk.it
+    port: 25565
+    assignees:
+      - evvsksh
+    
 status-website:
   cname: status.evvsk.it
   logoUrl: https://avatars.githubusercontent.com/evvsksh
