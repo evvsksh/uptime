@@ -1,26 +1,26 @@
 :root {
-  --body-background-color: #0f111a;      /* Dark, almost black background */
-  --body-text-color: #e6e6e6;            /* Soft white for readability */
-  --card-background-color: #1a1f2b;      /* Slightly lighter than background */
-  --nav-background-color: #1a1f2b;       /* Consistent with card bg */
-  --nav-border-bottom-color: #2e3a59;    /* Subtle bottom border */
-  --nav-current-border-bottom-color: #4fd1c5; /* Accent for active nav item */
-  --card-border-color: #2e3a59;          /* Soft border for cards */
+  --body-background-color: #0f111a;
+  --body-text-color: #e6e6e6;
+  --card-background-color: #1a1f2b;
+  --nav-background-color: #1a1f2b;
+  --nav-border-bottom-color: #2e3a59;
+  --nav-current-border-bottom-color: #4fd1c5;
+  --card-border-color: #2e3a59;
 
-  --down-border-left-color: #ef476f;     /* Bright red for down/decrease */
-  --down-background-color: #720026;      /* Darker red bg */
-  --degraded-border-left-color: #ffd166; /* Gold/yellow for warning */
-  --up-border-left-color: #06d6a0;       /* Vibrant green for up/increase */
-  --tag-color: #1a1f2b;                  /* Tag text bg */
+  --down-border-left-color: #ef476f;
+  --down-background-color: #720026;
+  --degraded-border-left-color: #ffd166;
+  --up-border-left-color: #06d6a0;
+  --tag-color: #1a1f2b;
   --tag-up-background-color: #06d6a0;
   --tag-down-background-color: #ef476f;
   --tag-degraded-background-color: #ffd166;
-  --change-background-color: #ffd166;    /* Gold for neutral attention */
+  --change-background-color: #ffd166;
 
-  --error-button-border-color: #e63946;  /* Red accent */
-  --error-button-background-color: #f94144; 
+  --error-button-border-color: #e63946;
+  --error-button-background-color: #f94144;
   --error-button-color: #ffffff;
-  --submit-button-border-color: #4fd1c5; /* Teal accent */
+  --submit-button-border-color: #4fd1c5;
   --submit-button-background-color: #00bfa6;
   --submit-button-color: #ffffff;
 
@@ -30,4 +30,8 @@
 
 .header {
   display: none;
+}
+
+.icon {
+  border-radius: 50%;
 }
