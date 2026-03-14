@@ -75,3 +75,15 @@
 .icon {
   border-radius: 50%;
 }
+
+li {
+  display: none;
+}
+
+nav {
+  opacity: 0;
+}
+
+.logo {
+  display: none;
+}
