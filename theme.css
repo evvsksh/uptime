@@ -87,7 +87,11 @@ body::-webkit-scrollbar-thumb:hover {
   background-color: var(--submit-button-background-color);
 }
 
-.header {
+nav {
+  display: none;
+}
+
+footer {
   display: none;
 }
 
