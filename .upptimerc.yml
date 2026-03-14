@@ -68,16 +68,3 @@ status-website:
   introTitle: ""
   introMessage: ""
   themeUrl: https://status.evvsk.it/theme.css
-  customBodyHtml: |
-    <script>
-      const interval = setInterval(() => {
-        const footer = document.querySelector('footer');
-        const nav = document.querySelector('nav');
-
-        let removed = false;
-        if (footer) { footer.remove(); removed = true; }
-        if (nav) { nav.remove(); removed = true; }
-
-        if (removed) clearInterval(interval);
-      }, 50);
-    </script>
