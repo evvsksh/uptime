@@ -1,31 +1,71 @@
 :root {
-  --body-background-color: #0f111a;
-  --body-text-color: #e6e6e6;
-  --card-background-color: #1a1f2b;
-  --nav-background-color: #1a1f2b;
-  --nav-border-bottom-color: #2e3a59;
-  --nav-current-border-bottom-color: #4fd1c5;
-  --card-border-color: #2e3a59;
+  --body-background-color: #f0ebe3;
+  --body-text-color: #4a3525;
 
-  --down-border-left-color: #ef476f;
-  --down-background-color: #720026;
-  --degraded-border-left-color: #ffd166;
-  --up-border-left-color: #06d6a0;
-  --tag-color: #1a1f2b;
-  --tag-up-background-color: #06d6a0;
-  --tag-down-background-color: #ef476f;
-  --tag-degraded-background-color: #ffd166;
-  --change-background-color: #ffd166;
+  --card-background-color: #f5ede0;
+  --nav-background-color: #f5ede0;
+  --nav-border-bottom-color: #c4a47a;
+  --nav-current-border-bottom-color: #5a3e28;
+  --card-border-color: #d4b896;
 
-  --error-button-border-color: #e63946;
-  --error-button-background-color: #f94144;
+  --down-border-left-color: #8a6a4a;
+  --down-background-color: #ede0d0;
+  --degraded-border-left-color: #c4a47a;
+  --up-border-left-color: #5a3e28;
+
+  --tag-color: #f5ede0;
+  --tag-up-background-color: #5a3e28;
+  --tag-down-background-color: #8a6a4a;
+  --tag-degraded-background-color: #c4a47a;
+
+  --change-background-color: #c4a47a;
+
+  --error-button-border-color: #8a6a4a;
+  --error-button-background-color: #c4a47a;
   --error-button-color: #ffffff;
-  --submit-button-border-color: #4fd1c5;
-  --submit-button-background-color: #00bfa6;
+
+  --submit-button-border-color: #5a3e28;
+  --submit-button-background-color: #8a6a4a;
   --submit-button-color: #ffffff;
 
   --graph-opacity: 1;
   --graph-filter: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --body-background-color: #1a1410;
+    --body-text-color: #e8d5b8;
+
+    --card-background-color: #2a1f14;
+    --nav-background-color: #2a1f14;
+    --nav-border-bottom-color: #8a6a3a;
+    --nav-current-border-bottom-color: #d4b896;
+    --card-border-color: #6a4a28;
+
+    --down-border-left-color: #8a6a3a;
+    --down-background-color: #2a1f14;
+    --degraded-border-left-color: #d4b896;
+    --up-border-left-color: #a08060;
+
+    --tag-color: #1e150c;
+    --tag-up-background-color: #a08060;
+    --tag-down-background-color: #8a6a3a;
+    --tag-degraded-background-color: #d4b896;
+
+    --change-background-color: #d4b896;
+
+    --error-button-border-color: #8a6a3a;
+    --error-button-background-color: #6a4a28;
+    --error-button-color: #e8d5b8;
+
+    --submit-button-border-color: #d4b896;
+    --submit-button-background-color: #a08060;
+    --submit-button-color: #1e150c;
+
+    --graph-opacity: 1;
+    --graph-filter: none;
+  }
 }
 
 .header {
