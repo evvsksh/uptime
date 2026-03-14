@@ -68,26 +68,6 @@
   }
 }
 
-.header {
-  display: none;
-}
-
-.icon {
-  border-radius: 50%;
-}
-
-li {
-  display: none;
-}
-
-nav {
-  opacity: 0;
-}
-
-.logo {
-  display: none;
-}
-
 body::-webkit-scrollbar {
   width: 12px;
 }
@@ -105,4 +85,19 @@ body::-webkit-scrollbar-thumb {
 
 body::-webkit-scrollbar-thumb:hover {
   background-color: var(--submit-button-background-color);
+}
+
+.header {
+  display: none;
+}
+
+.icon {
+  border-radius: 50%;
+}
+
+.container {
+  width: 100%;
+  height: auto;
+  margin-top: calc(50vh - 50%); 
+  margin-bottom: calc(50vh - 50%);
 }
