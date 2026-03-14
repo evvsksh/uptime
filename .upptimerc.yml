@@ -68,3 +68,7 @@ status-website:
   introTitle: ""
   introMessage: ""
   themeUrl: https://status.evvsk.it/theme.css
+  customFootHtml: |
+    <script>
+      ["footer","nav"].forEach(el => document.querySelector(el)?.remove());
+    </script>
