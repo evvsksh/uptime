@@ -19,7 +19,7 @@ sites:
     assignees:
       - evvsksh
     headers:
-      - "User-Agent: uptime"
+      - "User-Agent: $UA"
   - name: Homepage
     url: https://evvsk.it
     type: globalping
@@ -27,7 +27,7 @@ sites:
     assignees:
       - evvsksh
     headers:
-      - "User-Agent: uptime"
+      - "User-Agent: $UA"
   - name: Archive
     url: https://archive.evvsk.it
     type: globalping
@@ -35,7 +35,7 @@ sites:
     assignees:
       - evvsksh
     headers:
-      - "User-Agent: uptime"
+      - "User-Agent: $UA"
   - name: TCC
     url: https://tcc.evvsk.it/api/health
     type: globalping
@@ -43,7 +43,7 @@ sites:
     assignees:
       - evvsksh
     headers:
-      - "User-Agent: uptime"
+      - "User-Agent: $UA"
 
 status-website:
   cname: status.evvsk.it
