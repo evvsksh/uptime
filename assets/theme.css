@@ -94,9 +94,6 @@ body::-webkit-scrollbar-thumb:hover {
   background-color: var(--submit-button-background-color);
 }
 
-nav {
-  display: none;
-}
 
 footer {
   display: none;
