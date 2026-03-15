@@ -20,6 +20,14 @@ sites:
       - evvsksh
     headers:
       - "User-Agent: $UA"
+    expectedStatusCodes:
+      - 400
+      - 200
+      - 204
+      - 301
+      - 302
+      - 403
+      - 401
   - name: Homepage
     url: https://evvsk.it
     type: globalping
@@ -28,6 +36,14 @@ sites:
       - evvsksh
     headers:
       - "User-Agent: $UA"
+    expectedStatusCodes:
+      - 400
+      - 200
+      - 204
+      - 301
+      - 302
+      - 403
+      - 401
   - name: Archive
     url: https://archive.evvsk.it
     type: globalping
@@ -36,6 +52,14 @@ sites:
       - evvsksh
     headers:
       - "User-Agent: $UA"
+    expectedStatusCodes:
+      - 400
+      - 200
+      - 204
+      - 301
+      - 302
+      - 403
+      - 401
   - name: TCC
     url: https://tcc.evvsk.it/api/health
     type: globalping
@@ -44,6 +68,14 @@ sites:
       - evvsksh
     headers:
       - "User-Agent: $UA"
+    expectedStatusCodes:
+      - 400
+      - 200
+      - 204
+      - 301
+      - 302
+      - 403
+      - 401
   - name: Proxy
     url: https://proxy.evvsk.it
     type: globalping
@@ -52,6 +84,12 @@ sites:
       - evvsksh
     expectedStatusCodes:
       - 400
+      - 200
+      - 204
+      - 301
+      - 302
+      - 403
+      - 401
     headers:
       - "User-Agent: $UA"
   - name: MC Proxy
@@ -60,6 +98,14 @@ sites:
     port: 48123
     assignees:
       - evvsksh
+    expectedStatusCodes:
+      - 400
+      - 200
+      - 204
+      - 301
+      - 302
+      - 403
+      - 401
     
 status-website:
   cname: status.evvsk.it
