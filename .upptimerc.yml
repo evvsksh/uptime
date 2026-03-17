@@ -15,7 +15,7 @@ sites:
   - name: Mirror
     url: https://mirror.evvsk.it
     type: globalping
-    location: europe
+    location: france
     assignees:
       - evvsksh
     headers:
@@ -31,7 +31,7 @@ sites:
   - name: Homepage
     url: https://evvsk.it
     type: globalping
-    location: europe
+    location: france
     assignees:
       - evvsksh
     headers:
@@ -47,7 +47,7 @@ sites:
   - name: Archive
     url: https://archive.evvsk.it
     type: globalping
-    location: europe
+    location: france
     assignees:
       - evvsksh
     headers:
@@ -63,7 +63,7 @@ sites:
   - name: TCC
     url: https://tcc.evvsk.it/api/health
     type: globalping
-    location: europe
+    location: france
     assignees:
       - evvsksh
     headers:
@@ -79,7 +79,7 @@ sites:
   - name: Proxy
     url: https://proxy.evvsk.it
     type: globalping
-    location: europe
+    location: france
     assignees:
       - evvsksh
     expectedStatusCodes:
