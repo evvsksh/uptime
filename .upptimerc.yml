@@ -110,7 +110,7 @@ sites:
 status-website:
   cname: status.evvsk.it
   logoUrl: https://avatars.githubusercontent.com/evvsksh
-  name: Uptime
+  name: evvsk
   introTitle: ""
   introMessage: ""
   themeUrl: https://status.evvsk.it/theme.css
