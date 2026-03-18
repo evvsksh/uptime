@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirror.evvsk.it.ico",
     "slug": "mirror",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 145,
-    "timeDay": 82,
+    "timeDay": 83,
     "timeWeek": 145,
     "timeMonth": 145,
     "timeYear": 145,
-    "dailyMinutesDown": {
-      "2026-03-17": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Homepage",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/evvsk.it.ico",
     "slug": "homepage",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 160,
     "timeDay": 104,
     "timeWeek": 160,
     "timeMonth": 160,
     "timeYear": 160,
-    "dailyMinutesDown": {
-      "2026-03-17": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Archive",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/archive.evvsk.it.ico",
     "slug": "archive",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 161,
-    "timeDay": 517,
-    "timeWeek": 161,
-    "timeMonth": 161,
-    "timeYear": 161,
-    "dailyMinutesDown": {
-      "2026-03-17": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 160,
+    "timeDay": 57,
+    "timeWeek": 160,
+    "timeMonth": 160,
+    "timeYear": 160,
+    "dailyMinutesDown": {}
   },
   {
     "name": "TCC",
@@ -65,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/tcc.evvsk.it.ico",
     "slug": "tcc",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 128,
-    "timeDay": 123,
+    "timeDay": 122,
     "timeWeek": 128,
     "timeMonth": 128,
     "timeYear": 128,
-    "dailyMinutesDown": {
-      "2026-03-17": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Proxy",
@@ -85,19 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/proxy.evvsk.it.ico",
     "slug": "proxy",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 432,
-    "timeDay": 109,
-    "timeWeek": 432,
-    "timeMonth": 432,
-    "timeYear": 432,
-    "dailyMinutesDown": {
-      "2026-03-17": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 422,
+    "timeDay": 108,
+    "timeWeek": 422,
+    "timeMonth": 422,
+    "timeYear": 422,
+    "dailyMinutesDown": {}
   },
   {
     "name": "MC Proxy",
@@ -105,16 +95,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mc-proxy",
     "status": "up",
-    "uptime": "99.57%",
+    "uptime": "99.60%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.57%",
-    "time": 114,
-    "timeDay": 113,
-    "timeWeek": 114,
-    "timeMonth": 114,
-    "timeYear": 114,
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
+    "time": 113,
+    "timeDay": 102,
+    "timeWeek": 113,
+    "timeMonth": 113,
+    "timeYear": 113,
     "dailyMinutesDown": {
       "2026-03-14": 20
     }
