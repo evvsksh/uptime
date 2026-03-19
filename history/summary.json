@@ -4,19 +4,19 @@
     "url": "https://mirror.evvsk.it",
     "icon": "https://icons.duckduckgo.com/ip3/mirror.evvsk.it.ico",
     "slug": "mirror",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 136,
-    "timeDay": 65,
+    "timeDay": 71,
     "timeWeek": 100,
     "timeMonth": 136,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2026-03-19": 5
+      "2026-03-19": 0
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://evvsk.it",
     "icon": "https://icons.duckduckgo.com/ip3/evvsk.it.ico",
     "slug": "homepage",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 158,
-    "timeDay": 137,
+    "timeDay": 147,
     "timeWeek": 123,
     "timeMonth": 158,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2026-03-19": 5
+      "2026-03-19": 0
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://archive.evvsk.it",
     "icon": "https://icons.duckduckgo.com/ip3/archive.evvsk.it.ico",
     "slug": "archive",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 148,
-    "timeDay": 62,
+    "timeDay": 68,
     "timeWeek": 127,
     "timeMonth": 148,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2026-03-19": 5
+      "2026-03-19": 0
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://tcc.evvsk.it/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/tcc.evvsk.it.ico",
     "slug": "tcc",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 132,
-    "timeDay": 169,
+    "timeDay": 166,
     "timeWeek": 133,
     "timeMonth": 132,
     "timeYear": 132,
     "dailyMinutesDown": {
-      "2026-03-19": 5
+      "2026-03-19": 0
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://proxy.evvsk.it",
     "icon": "https://icons.duckduckgo.com/ip3/proxy.evvsk.it.ico",
     "slug": "proxy",
-    "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 347,
-    "timeDay": 126,
+    "timeDay": 123,
     "timeWeek": 347,
     "timeMonth": 347,
     "timeYear": 347,
     "dailyMinutesDown": {
-      "2026-03-19": 5
+      "2026-03-19": 0
     }
   },
   {
