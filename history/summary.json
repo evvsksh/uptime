@@ -4,18 +4,20 @@
     "url": "https://mirror.evvsk.it",
     "icon": "https://icons.duckduckgo.com/ip3/mirror.evvsk.it.ico",
     "slug": "mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 122,
-    "timeDay": 51,
-    "timeWeek": 75,
-    "timeMonth": 122,
-    "timeYear": 122,
-    "dailyMinutesDown": {}
+    "time": 121,
+    "timeDay": 48,
+    "timeWeek": 74,
+    "timeMonth": 121,
+    "timeYear": 121,
+    "dailyMinutesDown": {
+      "2026-03-22": 0
+    }
   },
   {
     "name": "Homepage",
@@ -59,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tcc.evvsk.it.ico",
     "slug": "tcc",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.90%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 141,
     "timeDay": 117,
     "timeWeek": 151,
     "timeMonth": 141,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2026-03-22": 0
+      "2026-03-22": 15
     }
   },
   {
