@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirror.evvsk.it.ico",
     "slug": "mirror",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 113,
     "timeDay": 49,
     "timeWeek": 65,
@@ -60,9 +60,9 @@
     "url": "$MC_PROXY_IP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mc-proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
@@ -72,6 +72,7 @@
     "timeMonth": 118,
     "timeYear": 118,
     "dailyMinutesDown": {
+      "2026-03-24": 0,
       "2026-03-14": 20
     }
   }
