@@ -4,9 +4,9 @@
     "url": "https://mirror.evvsk.it",
     "icon": "https://icons.duckduckgo.com/ip3/mirror.evvsk.it.ico",
     "slug": "mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
@@ -16,6 +16,7 @@
     "timeMonth": 112,
     "timeYear": 112,
     "dailyMinutesDown": {
+      "2026-03-24": 0,
       "2026-03-22": 15
     }
   },
@@ -24,7 +25,7 @@
     "url": "https://evvsk.it",
     "icon": "https://icons.duckduckgo.com/ip3/evvsk.it.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,7 +36,9 @@
     "timeWeek": 120,
     "timeMonth": 145,
     "timeYear": 145,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-24": 0
+    }
   },
   {
     "name": "Proxy",
@@ -61,11 +64,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mc-proxy",
     "status": "up",
-    "uptime": "96.43%",
+    "uptime": "96.45%",
     "uptimeDay": "64.93%",
     "uptimeWeek": "94.99%",
-    "uptimeMonth": "96.43%",
-    "uptimeYear": "96.43%",
+    "uptimeMonth": "96.45%",
+    "uptimeYear": "96.45%",
     "time": 117,
     "timeDay": 112,
     "timeWeek": 119,
