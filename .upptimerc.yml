@@ -15,7 +15,7 @@ sites:
   - name: Mirror
     url: https://mirror.evvsk.it
     type: globalping
-    location: france
+    location: Gravelines+FR
     assignees:
       - evvsksh
     headers:
@@ -23,19 +23,9 @@ sites:
   - name: Homepage
     url: https://evvsk.it
     type: globalping
-    location: france
+    location: Gravelines+FR
     assignees:
       - evvsksh
-    headers:
-      - "User-Agent: $UA"
-  - name: Proxy
-    url: https://proxy.evvsk.it
-    type: globalping
-    location: france
-    assignees:
-      - evvsksh
-    expectedStatusCodes:
-      - 400
     headers:
       - "User-Agent: $UA"
   - name: MC Proxy
