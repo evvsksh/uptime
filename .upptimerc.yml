@@ -27,8 +27,8 @@ sites:
     assignees:
       - evvsksh
     headers:
-      - "User-Agent: $UA
-    
+      - "User-Agent: $UA"
+
 status-website:
   cname: status.evvsk.it
   logoUrl: https://avatars.githubusercontent.com/evvsksh
