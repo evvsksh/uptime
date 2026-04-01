@@ -27,13 +27,7 @@ sites:
     assignees:
       - evvsksh
     headers:
-      - "User-Agent: $UA"
-  - name: MC Proxy
-    check: "tcp-ping"
-    url: $MC_PROXY_IP
-    port: 48123
-    assignees:
-      - evvsksh
+      - "User-Agent: $UA
     
 status-website:
   cname: status.evvsk.it
