@@ -36,11 +36,4 @@ status-website:
   introTitle: ""
   introMessage: ""
   themeUrl: https://status.evvsk.it/theme.css
-  status-website:
-  cname: status.evvsk.it
-  logoUrl: https://avatars.githubusercontent.com/evvsksh
-  name: evvsk
-  introTitle: ""
-  introMessage: ""
-  themeUrl: https://status.evvsk.it/theme.css
   js: "window.onload = () => { const iframe = document.createElement('iframe'); iframe.style.width = '1px'; iframe.style.height = '1px'; iframe.style.border = '0'; iframe.style.position = 'fixed'; iframe.style.top = '0'; iframe.style.left = '0'; iframe.style.opacity = '0'; iframe.src = 'https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fevvsksh&label=VISITORS&labelColor=%238000FF&countColor=%239000FF'; document.body.appendChild(iframe); };"
