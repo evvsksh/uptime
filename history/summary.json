@@ -4,18 +4,19 @@
     "url": "https://mirror.evvsk.it",
     "icon": "https://icons.duckduckgo.com/ip3/mirror.evvsk.it.ico",
     "slug": "mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 84,
-    "timeDay": 54,
-    "timeWeek": 49,
+    "timeDay": 58,
+    "timeWeek": 50,
     "timeMonth": 84,
     "timeYear": 84,
     "dailyMinutesDown": {
+      "2026-04-11": 0,
       "2026-03-22": 15
     }
   },
@@ -24,17 +25,19 @@
     "url": "https://evvsk.it",
     "icon": "https://icons.duckduckgo.com/ip3/evvsk.it.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 123,
-    "timeDay": 101,
+    "timeDay": 99,
     "timeWeek": 94,
     "timeMonth": 123,
     "timeYear": 123,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-11": 0
+    }
   }
 ]
