@@ -5,36 +5,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirror.evvsk.it.ico",
     "slug": "mirror",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
-    "time": 83,
-    "timeDay": 89,
-    "timeWeek": 82,
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 84,
+    "timeDay": 93,
+    "timeWeek": 89,
     "timeMonth": 59,
-    "timeYear": 83,
-    "dailyMinutesDown": {
-      "2026-03-22": 15
-    }
+    "timeYear": 84,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Homepage",
     "url": "https://evvsk.it",
     "icon": "https://icons.duckduckgo.com/ip3/evvsk.it.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 118,
-    "timeDay": 82,
-    "timeWeek": 98,
-    "timeMonth": 101,
+    "timeDay": 86,
+    "timeWeek": 97,
+    "timeMonth": 100,
     "timeYear": 118,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-19": 0
+    }
   }
 ]
