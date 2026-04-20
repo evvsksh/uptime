@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 84,
-    "timeDay": 90,
-    "timeWeek": 91,
+    "timeDay": 84,
+    "timeWeek": 96,
     "timeMonth": 58,
     "timeYear": 84,
     "dailyMinutesDown": {}
@@ -22,17 +22,19 @@
     "url": "https://evvsk.it",
     "icon": "https://icons.duckduckgo.com/ip3/evvsk.it.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 118,
-    "timeDay": 95,
-    "timeWeek": 96,
-    "timeMonth": 100,
+    "timeDay": 90,
+    "timeWeek": 94,
+    "timeMonth": 99,
     "timeYear": 118,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-20": 0
+    }
   }
 ]
